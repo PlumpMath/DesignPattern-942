@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Composite\bin\Debug\Composite.dll
+G:\DesignPattern\DesignPattern\Composite\bin\Debug\Composite.pdb
+G:\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.dll
+G:\DesignPattern\DesignPattern\Composite\obj\Debug\Composite.pdb

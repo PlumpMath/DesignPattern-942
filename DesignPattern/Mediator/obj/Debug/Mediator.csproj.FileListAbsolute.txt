@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Mediator\bin\Debug\Mediator.dll
+G:\DesignPattern\DesignPattern\Mediator\bin\Debug\Mediator.pdb
+G:\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.dll
+G:\DesignPattern\DesignPattern\Mediator\obj\Debug\Mediator.pdb

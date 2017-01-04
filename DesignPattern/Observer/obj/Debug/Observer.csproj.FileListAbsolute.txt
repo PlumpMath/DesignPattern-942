@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Observer\bin\Debug\Observer.dll
+G:\DesignPattern\DesignPattern\Observer\bin\Debug\Observer.pdb
+G:\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.dll
+G:\DesignPattern\DesignPattern\Observer\obj\Debug\Observer.pdb

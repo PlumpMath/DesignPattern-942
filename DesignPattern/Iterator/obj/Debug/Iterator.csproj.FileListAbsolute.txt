@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Iterator\bin\Debug\Iterator.dll
+G:\DesignPattern\DesignPattern\Iterator\bin\Debug\Iterator.pdb
+G:\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.dll
+G:\DesignPattern\DesignPattern\Iterator\obj\Debug\Iterator.pdb

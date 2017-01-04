@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Builder\bin\Debug\Builder.dll
+G:\DesignPattern\DesignPattern\Builder\bin\Debug\Builder.pdb
+G:\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.dll
+G:\DesignPattern\DesignPattern\Builder\obj\Debug\Builder.pdb

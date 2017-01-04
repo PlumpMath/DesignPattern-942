@@ -1,0 +1,4 @@
+G:\DesignPattern\DesignPattern\Command\bin\Debug\Command.dll
+G:\DesignPattern\DesignPattern\Command\bin\Debug\Command.pdb
+G:\DesignPattern\DesignPattern\Command\obj\Debug\Command.dll
+G:\DesignPattern\DesignPattern\Command\obj\Debug\Command.pdb

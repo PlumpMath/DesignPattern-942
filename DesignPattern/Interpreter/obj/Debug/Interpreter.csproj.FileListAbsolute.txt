@@ -1,0 +1,4 @@
+G:\DesignPattern\DesignPattern\Interpreter\bin\Debug\Interpreter.dll
+G:\DesignPattern\DesignPattern\Interpreter\bin\Debug\Interpreter.pdb
+G:\DesignPattern\DesignPattern\Interpreter\obj\Debug\Interpreter.dll
+G:\DesignPattern\DesignPattern\Interpreter\obj\Debug\Interpreter.pdb

@@ -1,0 +1,5 @@
+G:\DesignPattern\DesignPattern\Memento\bin\Debug\Memento.dll
+G:\DesignPattern\DesignPattern\Memento\bin\Debug\Memento.pdb
+G:\DesignPattern\DesignPattern\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+G:\DesignPattern\DesignPattern\Memento\obj\Debug\Memento.dll
+G:\DesignPattern\DesignPattern\Memento\obj\Debug\Memento.pdb
